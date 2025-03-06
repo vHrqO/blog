@@ -1,0 +1,4 @@
+/* Disable fa-spin animation */
+.fa-spin {
+    animation: none;
+}

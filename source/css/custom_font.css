@@ -1,0 +1,11 @@
+body {
+    font-family: "jf open 粉圓 2.1", "Noto Sans TC";
+}
+
+
+@font-face {
+    font-family: "jf open 粉圓 2.1";
+    src:
+        local("jf open 粉圓 2.1"),
+        url(/fonts/jf-openhuninn-2.1.ttf) format("opentype");
+}
